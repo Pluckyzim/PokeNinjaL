@@ -1,0 +1,604 @@
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:32:58
+exception: Unknown exception (0xe06d7363)
+exception address: 0x75e3b727
+  backtrace:
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:32:58
+exception: Unknown exception (0xe06d7363)
+exception address: 0x75e3b727
+  backtrace:
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:32:58
+exception: Unknown exception (0xe06d7363)
+exception address: 0x75e3b727
+  backtrace:
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:32:58
+exception: Stack overflow (0xc00000fd)
+exception address: 0x68e562b9
+  backtrace:
+
+
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:08
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x000000000079E46B]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949ED2]
+    14: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:08
+exception: Unknown exception (0xe06d7363)
+exception address: 0x75e3b727
+  backtrace:
+    0: C:\Windows\syswow64\KERNELBASE.dll [0x0000000075E3B727]
+    1: Unknown [0x0000000068E573DC]
+    2: Unknown [0x0000000068E533AA]
+    3: Unknown [0x000000000028A670]
+    4: Unknown [0x00000000678F0098]
+    5: Unknown [0x00000000678DE4F7]
+    6: Unknown [0x00000000678DFA4F]
+    7: C:\Windows\SysWOW64\ntdll.dll [0x000000007793F422]
+    8: C:\Windows\SysWOW64\ntdll.dll [0x000000007793F1E1]
+    9: C:\Windows\SysWOW64\ntdll.dll [0x000000007793F1E1]
+    10: C:\Windows\SysWOW64\ntdll.dll [0x000000007793E688]
+    11: C:\Windows\SysWOW64\ntdll.dll [0x000000007793E65F]
+    12: C:\Windows\SysWOW64\ntdll.dll [0x000000007793E36C]
+    13: Unknown [0x000000007A6915C3]
+    14: Unknown [0x0000000000CEC918]
+    15: Unknown [0x0000000000CD01B4]
+    16: Unknown [0x0000000000D53526]
+    17: Unknown [0x0000000000D53726]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:08
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Windows\syswow64\msvcrt.dll [0x00000000762A98CD]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe(wglewIsSupported+0x13be3b) [0x000000000079E46B]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    13: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077949ED2]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:09
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Windows\syswow64\msvcrt.dll [0x00000000762A98CD]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe(wglewIsSupported+0x13be3b) [0x000000000079E46B]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    13: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077949ED2]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:10
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Windows\syswow64\msvcrt.dll [0x00000000762A98CD]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe(wglewIsSupported+0x13be3b) [0x000000000079E46B]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    13: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077949ED2]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:10
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Windows\syswow64\msvcrt.dll [0x00000000762A98CD]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x000000000079E46B]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    13: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949ED2]
+    15: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:11
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: Unknown [0x000000006CC7B8EF]
+    8: Unknown [0x00000000004A4267]
+    9: Unknown [0x00000000004A4CDC]
+    10: Unknown [0x00000000004A6EA8]
+    11: Unknown [0x000000000079E46B]
+    12: Unknown [0x0000000000401250]
+    13: Unknown [0x00000000004012D5]
+    14: Unknown [0x0000000077949ED2]
+    15: Unknown [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:14
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: Unknown [0x00000000678A4874]
+    5: Unknown [0x000000006CC7B6CD]
+    6: Unknown [0x000000006CC7B83C]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x000000000079E46B]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949ED2]
+    14: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:21
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: C:\Windows\system32\OPENGL32.DLL(wglSwapMultipleBuffers+0x1420) [0x000000006CC7B6CD]
+    5: C:\Windows\system32\OPENGL32.DLL(wglCreateLayerContext+0x98) [0x000000006CC7B83C]
+    6: C:\Windows\system32\OPENGL32.DLL(wglCreateContext+0xf) [0x000000006CC7B8EF]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe(wglewIsSupported+0x13be3b) [0x000000000079E46B]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949ED2]
+    14: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:33:21
+exception: Access violation (0xc0000005)
+exception address: 0x686bd97d
+  backtrace:
+    0: Unknown [0x00000000686BD97D]
+    1: Unknown [0x00000000686AEECD]
+    2: Unknown [0x00000000679D72B7]
+    3: Unknown [0x00000000684C5968]
+    4: C:\Windows\system32\OPENGL32.DLL(wglSwapMultipleBuffers+0x1420) [0x000000006CC7B6CD]
+    5: C:\Windows\system32\OPENGL32.DLL(wglCreateLayerContext+0x98) [0x000000006CC7B83C]
+    6: C:\Windows\system32\OPENGL32.DLL(wglCreateContext+0xf) [0x000000006CC7B8EF]
+    7: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4267]
+    8: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A4CDC]
+    9: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004A6EA8]
+    10: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x000000000079E46B]
+    11: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x0000000000401250]
+    12: C:\Users\KyoGron\Desktop\Pokémon Eternium\OTCliente OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949ED2]
+    14: C:\Windows\SysWOW64\ntdll.dll [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:34:17
+exception: Unknown exception (0xe06d7363)
+exception address: 0x75e3b727
+  backtrace:
+    0: Unknown [0x0000000075E3B727]
+    1: Unknown [0x0000000068E573DC]
+    2: Unknown [0x0000000068E533AA]
+    3: Unknown [0x000000000028E870]
+    4: Unknown [0x00000000685468F0]
+    5: Unknown [0x00000000684FB821]
+    6: Unknown [0x00000000684FA480]
+    7: Unknown [0x00000000686BBFC4]
+    8: Unknown [0x00000000686BBC09]
+    9: Unknown [0x0000000067888CBD]
+    10: Unknown [0x00000000684C50A6]
+    11: Unknown [0x00000000684C52A9]
+    12: Unknown [0x00000000684C49FA]
+    13: Unknown [0x00000000678A3EF0]
+    14: Unknown [0x00000000678A5DA9]
+    15: Unknown [0x000000006CC7C654]
+    16: Unknown [0x000000006CC7C6B7]
+    17: Unknown [0x000000006CC85658]
+    18: Unknown [0x000000006CC85DD4]
+    19: Unknown [0x000000006CC86559]
+    20: Unknown [0x00000000762158B7]
+    21: Unknown [0x00000000004A41A1]
+    22: Unknown [0x00000000004A4CDC]
+    23: Unknown [0x00000000004A6EA8]
+    24: Unknown [0x000000000079E46B]
+    25: Unknown [0x0000000000401250]
+    26: Unknown [0x00000000004012D5]
+    27: Unknown [0x0000000077949ED2]
+    28: Unknown [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 04 2018 12:34:18
+exception: Stack overflow (0xc00000fd)
+exception address: 0x6c4c9e89
+  backtrace:
+    0: Unknown [0x000000006C4C9E89]
+    1: Unknown [0x000000006C43DBF0]
+    2: Unknown [0x000000006C4CD13F]
+    3: Unknown [0x000000006C4CD4E7]
+    4: Unknown [0x000000006C4CD9B5]
+    5: Unknown [0x000000006C4CD821]
+    6: Unknown [0x000000006C4CB0CB]
+    7: Unknown [0x000000006C46522B]
+    8: Unknown [0x000000006C47CBA4]
+    9: Unknown [0x00000000684F85E5]
+    10: Unknown [0x00000000678A8F98]
+    11: Unknown [0x00000000678B04A5]
+    12: Unknown [0x00000000678A61D8]
+    13: Unknown [0x00000000678A2767]
+    14: Unknown [0x00000000678A56D4]
+    15: Unknown [0x000000006CC7AF0B]
+    16: Unknown [0x000000006CC7B0F3]
+    17: Unknown [0x000000006CC7B1A9]
+    18: Unknown [0x000000006CC7C6A4]
+    19: Unknown [0x000000006CC85658]
+    20: Unknown [0x000000006CC85DD4]
+    21: Unknown [0x000000006CC86559]
+    22: Unknown [0x00000000762158B7]
+    23: Unknown [0x00000000004A41A1]
+    24: Unknown [0x00000000004A4CDC]
+    25: Unknown [0x00000000004A6EA8]
+    26: Unknown [0x000000000079E46B]
+    27: Unknown [0x0000000000401250]
+    28: Unknown [0x00000000004012D5]
+    29: Unknown [0x0000000077949ED2]
+    30: Unknown [0x0000000077949EA5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Jan  9 2018
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 28 2018 16:31:08
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x0042ab04
+  backtrace:
+    0: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x000000000042AB04]
+    1: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000445DD7]
+    2: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000438497]
+    3: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000461279]
+    4: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000496A78]
+    5: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000497259]
+    6: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000496AC0]
+    7: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000497259]
+    8: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000496AC0]
+    9: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x00000000004D3A04]
+    10: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x00000000004A7620]
+    11: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x13bf5f) [0x000000000079E58F]
+    12: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    13: C:\Users\Joao\Desktop\OTClient Pokémon Roxy 3.6\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000775C9802]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000775C97D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  2 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 04 2019 20:13:46
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000424344]
+    2: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000449CFD]
+    3: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E9C8]
+    4: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    5: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    6: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    7: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    8: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000049DB40]
+    9: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004794FA]
+    10: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x123535) [0x000000000074B565]
+    11: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    12: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077B09802]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077B097D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  2 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 04 2019 20:16:58
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000424344]
+    2: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000449CFD]
+    3: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E9C8]
+    4: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    5: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    6: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    7: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    8: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000049DB40]
+    9: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004794FA]
+    10: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x123535) [0x000000000074B565]
+    11: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    12: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077B09802]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077B097D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  2 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 04 2019 20:21:51
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000424344]
+    2: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000449CFD]
+    3: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E9C8]
+    4: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    5: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    6: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    7: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    8: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x000000000049DB40]
+    9: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004794FA]
+    10: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x123535) [0x000000000074B565]
+    11: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    12: C:\Users\Joao\Desktop\ROXY\OTCLIENT\OTClient Pokémon Roxy 3.6.3 (novo)\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077B09802]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077B097D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  2 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 05 2019 18:21:37
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000424344]
+    2: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000449CFD]
+    3: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E9C8]
+    4: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    5: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    6: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    7: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    8: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000049DB40]
+    9: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004794FA]
+    10: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x123535) [0x000000000074B565]
+    11: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    12: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077BE9802]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077BE97D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  2 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 05 2019 18:30:48
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000424344]
+    2: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000449CFD]
+    3: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E9C8]
+    4: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    5: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    6: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046E85B]
+    7: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000046EA2D]
+    8: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x000000000049DB40]
+    9: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004794FA]
+    10: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe(wglewIsSupported+0x123535) [0x000000000074B565]
+    11: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x0000000000401250]
+    12: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.0\Pokemon Roxy OpenGL.exe [0x00000000004012D5]
+    13: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077BE9802]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077BE97D5]
+
+== application crashed
+app name: OTClient
+app version: 0.6.6
+build compiler: gcc 4.8.1
+build date: Feb  1 2019
+build type: release
+build revision: 0 (devel)
+crash date: Feb 24 2019 21:34:03
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004240d3
+  backtrace:
+    0: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x00000000004240D3]
+    1: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000042426F]
+    2: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x0000000000437A36]
+    3: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000042E308]
+    4: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000044AA5B]
+    5: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000046DCBC]
+    6: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000046DB4F]
+    7: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000046DD21]
+    8: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000046DB4F]
+    9: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000046DD21]
+    10: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000049CFF0]
+    11: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x000000000047899A]
+    12: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe(alGetListeneriv+0x252705) [0x00000000007225A5]
+    13: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x0000000000401250]
+    14: C:\Users\Joao\Desktop\Client Pokémon Roxy 4.7.1\Pokemon Roxy Directx9.exe [0x00000000004012D5]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077B59802]
+    16: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077B597D5]
+
